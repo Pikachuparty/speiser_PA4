@@ -18,7 +18,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Pikac\IdeaProjects\speiser_P2\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1T4y4IdXXuOGUEzfC16TjneFprC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -56,6 +64,18 @@
       <option name="presentableId" value="Default" />
       <updated>1572733469409</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit For Problem 2">
+      <created>1572738924974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572738924974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit For Problem 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit For Problem 2" />
   </component>
 </project>
